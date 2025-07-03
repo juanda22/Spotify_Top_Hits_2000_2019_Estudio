@@ -17,3 +17,5 @@ El objetivo es identificar patrones y características comunes entre las cancion
 
 - Rstudio
 - PowerPoint 
+
+Este análisis fue realizado en Python durante una materia académica, pero no se conserva el código fuente. El informe final refleja los resultados obtenidos, con visualizaciones y conclusiones basadas en técnicas de análisis exploratorio de datos.
